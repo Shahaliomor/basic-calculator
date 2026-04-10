@@ -1,10 +1,12 @@
+package com.pluralsight;
+
 import java.util.Scanner;
 
 public class BasicCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Ask for numbers (float)
+        // User input
         System.out.print("Enter first number: ");
         float num1 = input.nextFloat();
 

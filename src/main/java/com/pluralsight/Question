@@ -1,0 +1,34 @@
+87
+Exercises – Basic Calculator
+In these exercise you will create basic console applications which prompt the user for
+information and then perform calculations based on the user input. Remember to do
+your work in the workbook-1 directory.
+Remember to be focus on the format and readability of your code.
+a. Use meaningful variable names
+b. Use whitespace and lines to organize your code and thoughts so that others can
+easily understand your code
+c. Don't try to do multiple things on a single line of code
+d. When in doubt opt for code readability
+EXERCISE 3
+Create a Java application named basic-calculator that reads in two floating point
+numbers and then asks the user whether they want to add, subtract, multiply or divide
+the two numbers.
+Remember: When creating a new Java project, create a new git repository and commit
+your changes often! Don’t forget to push to github.com. Always share your IntelliJ
+project to GitHub
+For this exercise, only code the questions. We won’t calculate add, subtract, multiply or
+divide. For this exercise, always multiply.
+Step 1
+Perform the requested operation and display the results.
+Enter the first number: 5
+Enter the second number: 12
+Possible calculations:
+(A)dd
+(S)ubtract
+(M)ultiply
+(D)ivide
+Please select an option: M
+5 * 12 = 60
+88
+Step 2
+1. Ensure all your changes are committed and pushed to GitHub
